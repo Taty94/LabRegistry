@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HhZwGBDlbko=",
+  "dgSpecHash": "D/wrbs5pBNQ=",
   "success": true,
-  "projectFilePath": "C:\\TATIANA\\UISRAEL - ING.INFORMATICA\\Fundamentos de Especialidad II 1pm\\ACTIVIDADES\\Semana5-Julio18\\LabRegistry\\LabRegistry.ConsoleTest\\LabRegistry.ConsoleTest.csproj",
+  "projectFilePath": "C:\\TATIANA\\UISRAEL - ING.INFORMATICA\\Fundamentos de Especialidad II 1pm\\ACTIVIDADES\\Semana6-Julio25\\LabRegistry\\LabRegistry.ConsoleTest\\LabRegistry.ConsoleTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
