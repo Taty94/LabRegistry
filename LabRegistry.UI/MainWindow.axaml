@@ -1,0 +1,40 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="450" d:DesignHeight="300"
+        x:Class="LabRegistry.UI.MainWindow"
+        Title="Control de Equipos de Laboratorio - Menú Principal"
+        Width="450" Height="300"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="20">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Spacing="15" Width="280">
+            
+            <TextBlock Text="Préstamos de Laboratorio" 
+                       FontSize="20" 
+                       FontWeight="Bold" 
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,10"/>
+
+            <Button Name="EquipmentButton" 
+                    Content="Gestión de Equipos" 
+                    Click="EquipmentButton_Click" 
+                    HorizontalAlignment="Stretch"
+                    HorizontalContentAlignment="Center"/>
+
+            <Button Name="StudentsButton" 
+                    Content="Gestión de Estudiantes" 
+                    Click="StudentsButton_Click" 
+                    HorizontalAlignment="Stretch"
+                    HorizontalContentAlignment="Center"/>
+
+            <Button Name="LoansButton" 
+                    Content="Gestión de Préstamos" 
+                    Click="LoansButton_Click" 
+                    HorizontalAlignment="Stretch"
+                    HorizontalContentAlignment="Center"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,75 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:models="using:LabRegistry.Models"
+        mc:Ignorable="d" d:DesignWidth="850" d:DesignHeight="500"
+        x:Class="LabRegistry.UI.Views.LoanView"
+        Title="Gestión de Préstamos de Laboratorio"
+        Width="850" Height="500"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="15" RowDefinitions="Auto, Auto, *, Auto">
+        <TextBlock Grid.Row="0" Text="Registro de Préstamos" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
+
+        <Border Grid.Row="1" Background="#F4F4F4" CornerRadius="5" Padding="10" Margin="0,0,0,10">
+            <StackPanel Spacing="10">
+                <Grid ColumnDefinitions="*, *" RowDefinitions="Auto, Auto">
+                    
+                    <StackPanel Grid.Row="0" Grid.Column="0" Margin="5">
+                        <TextBlock Text="Equipo:"/>
+                        <ComboBox Name="EquipmentComboBox" HorizontalAlignment="Stretch" PlaceholderText="Seleccione un equipo..."/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Row="0" Grid.Column="1" Margin="5">
+                        <TextBlock Text="Usuario / Solicitante:"/>
+                        <ComboBox Name="StudentComboBox" HorizontalAlignment="Stretch" PlaceholderText="Seleccione un estudiante..."/>
+                        <!-- <TextBox Name="UserTextBox" PlaceholderText="Nombre o carné del usuario"/> -->
+                    </StackPanel>
+
+                    <StackPanel Grid.Row="1" Grid.Column="0" Margin="5">
+                        <TextBlock Text="Fecha de Préstamo:"/>
+                        <DatePicker Name="LoanDatePicker" HorizontalAlignment="Stretch"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Row="1" Grid.Column="1" Margin="5">
+                        <TextBlock Text="Estado del Préstamo:"/>
+                        <ComboBox Name="StatusComboBox" HorizontalAlignment="Stretch" SelectedIndex="0"/>
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+        </Border>
+
+        <DataGrid Name="LoansDataGrid"
+                  Grid.Row="2"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  x:DataType="models:Loan"
+                  SelectionChanged="LoansDataGrid_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="50" />
+                <DataGridTextColumn Header="Equipo" Binding="{Binding EquipmentId}" Width="80" />
+                <DataGridTextColumn Header="Studiante" Binding="{Binding StudentId}" Width="80" />
+                <DataGridTextColumn Header="Fecha Préstamo" Binding="{Binding LoanDate, StringFormat=\{0:dd/MM/yyyy\}}" Width="150" />
+                <DataGridTextColumn Header="Fecha Esperada" Binding="{Binding ExpectedReturnDate, StringFormat=\{0:dd/MM/yyyy\}}" Width="150" />
+                <DataGridTemplateColumn Header="Fecha Devolución" Width="150">
+                <DataGridTemplateColumn.CellTemplate>
+                    <DataTemplate DataType="models:Loan">
+                        <TextBlock Text="{Binding ActualReturnDate, StringFormat=\{0:dd/MM/yyyy\}}" 
+                                VerticalAlignment="Center" 
+                                HorizontalAlignment="Left"/>
+                    </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <!-- <DataGridTextColumn Header="Fecha Devolución" Binding="{Binding ActualReturnDate, StringFormat=\{0:dd/MM/yyyy\}}" Width="150" /> -->
+                <DataGridTextColumn Header="Estado" Binding="{Binding Status}" Width="90" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Spacing="10" Margin="0,10,0,0">
+            <Button Content="Nuevo" Click="NewButton_Click"/>
+            <Button Content="Guardar" Click="SaveButton_Click" Classes="accent"/>
+            <Button Content="Eliminar" Click="DeleteButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

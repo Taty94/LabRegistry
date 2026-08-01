@@ -1,0 +1,11 @@
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Models\bin\Debug\net10.0\LabRegistry.Models.deps.json
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Models\bin\Debug\net10.0\LabRegistry.Models.dll
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Models\bin\Debug\net10.0\LabRegistry.Models.pdb
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Models\obj\Debug\net10.0\LabRegistry.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Models\obj\Debug\net10.0\LabRegistry.Models.AssemblyInfoInputs.cache
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Models\obj\Debug\net10.0\LabRegistry.Models.AssemblyInfo.cs
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Models\obj\Debug\net10.0\LabRegistry.Models.csproj.CoreCompileInputs.cache
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Models\obj\Debug\net10.0\LabRegistry.Models.dll
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Models\obj\Debug\net10.0\refint\LabRegistry.Models.dll
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Models\obj\Debug\net10.0\LabRegistry.Models.pdb
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Models\obj\Debug\net10.0\ref\LabRegistry.Models.dll

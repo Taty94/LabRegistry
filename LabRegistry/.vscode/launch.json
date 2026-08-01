@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug LabRegistry.UI",
+      "type": "coreclr",
+      "request": "launch",
+    //   "preLaunchTask": "build",
+      "program": "${workspaceFolder}/LabRegistry.UI/bin/Debug/net10.0/LabRegistry.UI.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/LabRegistry.UI",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    }
+  ]
+}

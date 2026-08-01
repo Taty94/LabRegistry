@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LabRegistry.ConsoleTest/LabRegistry.ConsoleTest.csproj" />
+  <Project Path="LabRegistry.Data/LabRegistry.Data.csproj" />
+  <Project Path="LabRegistry.Models/LabRegistry.Models.csproj" />
+  <Project Path="LabRegistry.UI/LabRegistry.UI.csproj" />
+</Solution>

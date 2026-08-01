@@ -1,0 +1,17 @@
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\bin\Debug\net10.0\LabRegistry.Data.deps.json
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\bin\Debug\net10.0\LabRegistry.Data.runtimeconfig.json
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\bin\Debug\net10.0\LabRegistry.Data.dll
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\bin\Debug\net10.0\LabRegistry.Data.pdb
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\bin\Debug\net10.0\LabRegistry.Models.dll
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\bin\Debug\net10.0\LabRegistry.Models.pdb
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\obj\Debug\net10.0\LabRegistry.Data.csproj.AssemblyReference.cache
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\obj\Debug\net10.0\LabRegistry.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\obj\Debug\net10.0\LabRegistry.Data.AssemblyInfoInputs.cache
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\obj\Debug\net10.0\LabRegistry.Data.AssemblyInfo.cs
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\obj\Debug\net10.0\LabRegistry.Data.csproj.CoreCompileInputs.cache
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\obj\Debug\net10.0\LabRegis.4573A345.Up2Date
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\obj\Debug\net10.0\LabRegistry.Data.dll
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\obj\Debug\net10.0\refint\LabRegistry.Data.dll
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\obj\Debug\net10.0\LabRegistry.Data.pdb
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\obj\Debug\net10.0\LabRegistry.Data.genruntimeconfig.cache
+C:\TATIANA\UISRAEL - ING.INFORMATICA\Fundamentos de Especialidad II 1pm\ACTIVIDADES\Semana5-Julio18\LabRegistry\LabRegistry.Data\obj\Debug\net10.0\ref\LabRegistry.Data.dll
